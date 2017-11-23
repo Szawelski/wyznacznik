@@ -1,0 +1,4 @@
+#ignorowane pliki
+*.o
+*.out
+*.c~
